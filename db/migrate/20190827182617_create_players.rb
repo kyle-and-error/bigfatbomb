@@ -16,7 +16,6 @@ class CreatePlayers < ActiveRecord::Migration[6.0]
       t.string :song
       t.string :picture_url
 
-
       t.timestamps
     end
   end
